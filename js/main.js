@@ -253,7 +253,7 @@
 		      error: function() {
 
 		      	sLoader.fadeOut();
-		      	$('#message-warning').html("Something went wrong. Please try again.");
+		      	$('#message-warning').html("Sorry, this functionality is not supported anymore.");
 		         $('#message-warning').fadeIn();
 
 		      }
